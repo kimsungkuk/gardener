@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "598734869773",
+    "firebase_url": "https://gardener-d519c.firebaseio.com",
+    "project_id": "gardener-d519c",
+    "storage_bucket": "gardener-d519c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598734869773:android:5dffd3d88bade6c4480c44",
+        "android_client_info": {
+          "package_name": "com.ex2i.gardener"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "598734869773-md75f2s8ogac6gvgnakc02lcfbhc7ep3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPviv7Y0Xj1cIwlVtkrZ0kttcToOX-ZiU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "598734869773-md75f2s8ogac6gvgnakc02lcfbhc7ep3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
